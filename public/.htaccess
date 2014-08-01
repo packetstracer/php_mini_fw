@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine on  
+
+  #disallow non-known file extensions
+  RewriteRule !\.(js|ico|txt|gif|jpg|png|css)$ index.php
+</IfModule>

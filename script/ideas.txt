@@ -1,0 +1,29 @@
+=====
+CRON
+=====
+
+- Backups:
+-----------
+- Ficheros -> .tar.gz
+- BBDD -> .sql
+- Todo (fich + bbdd)
+
+
+- Tests:
+---------
+- tests (phpunit, apache, bbdd)
+
+
+- Bbdd:
+--------
+- recalcular resultados busqueda (algoritmo buscador)
+
+
+- Security:
+------------
+
+
+- Logs:
+--------
+- log rotate (rotacion y backups de logs)
+
