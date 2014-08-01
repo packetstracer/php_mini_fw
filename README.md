@@ -14,6 +14,10 @@ Some of the features are:
 - Debugging: used FirePHP to ease backend debugging
 - Caché: based on Alternative PHP Caché (APC)
 - Routing: Apache's mod_rewrite/.htaccess based routing
+- ACL: with controller/action granularity
+- Helpers: sanitizer, array
+- Session: based on Registry pattern
+- Unit testing: included PHPUnit library for testing
 
 
 ... (readme file in progress) ...
